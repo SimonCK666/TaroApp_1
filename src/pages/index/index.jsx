@@ -8,6 +8,7 @@ import './index.scss'
 @inject('store')
 @observer
 class Index extends Component {
+
   componentWillMount () { }
 
   componentDidMount () { }
